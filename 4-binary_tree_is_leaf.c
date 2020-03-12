@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_delete -function that checks if a node is a leaf
+ * binary_tree_is_leaf -function that checks if a node is a leaf
  * @node: node left
  * Return: int
  */
