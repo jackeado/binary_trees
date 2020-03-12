@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - function that goes through a binary tree using pre-order traversal
+ * binary_tree_preorder - func that goes through a binary tree using pre-order
  * @tree: tree for order
  * @func: value of node
  */
